@@ -5,6 +5,7 @@ public class text
     public static void firstText()
     {
         Console.WriteLine("У одних родителей мальчик был. Звали его дядя Фёдор.");
-        Console.WriteLine("Press Enter when you ready, and Enter when you finish ");
+        Console.WriteLine("Press Enter when you ready");
+            Console.Write("and Enter when you finish");
     }
 }
