@@ -49,7 +49,7 @@ using FirstHomework;
             }
             catch (Exception e)
             {
-                  Console.WriteLine("e");
+                  Console.WriteLine("i");
                   throw;
             }
            
